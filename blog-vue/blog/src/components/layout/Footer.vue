@@ -1,9 +1,9 @@
 <template>
   <v-footer app padless absolute v-if="!this.isMessage">
     <div class="footer-wrap">
-      <div>©2019 - {{ new Date().getFullYear() }} By 风丶宇</div>
+      <div>©2020 - {{ new Date().getFullYear() }} By qtztlink</div>
       <a href="https://beian.miit.gov.cn/" target="_blank">
-        湘ICP备19021924号
+        粤ICP备2021059159号
       </a>
     </div>
   </v-footer>

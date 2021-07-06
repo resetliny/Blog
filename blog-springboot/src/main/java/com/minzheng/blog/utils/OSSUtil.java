@@ -79,7 +79,7 @@ public class OSSUtil {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return url + relativeAddr;
+        return url + "/" + relativeAddr;
     }
 
     /**
