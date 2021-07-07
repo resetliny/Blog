@@ -23,7 +23,8 @@
     <!-- 绑定邮箱模态框 -->
     <EmailModel></EmailModel>
     <!-- 音乐播放器 -->
-    <Player></Player>
+    <Aplayer></Aplayer>
+    <!-- <Player></Player> -->
     <!-- 聊天室 -->
     <!-- <ChatRoom></ChatRoom> -->
   </v-app>
@@ -39,12 +40,12 @@ import LoginModel from "./components/model/LoginModel";
 import RegisterModel from "./components/model/RegisterModel";
 import ForgetModel from "./components/model/ForgetModel";
 import EmailModel from "./components/model/EmailModel";
-import Player from "./components/zw-player/player.vue";
+import Aplayer from "./components/aplayer-metjs/Aplayer.vue";
+// import Player from "./components/zw-player/player.vue";
 // import ChatRoom from "./components/ChatRoom";
 export default {
   components: {
     TopNavBar,
-    Player,
     SideNavBar,
     Footer,
     BackTop,
@@ -52,7 +53,9 @@ export default {
     LoginModel,
     RegisterModel,
     ForgetModel,
-    EmailModel
+    EmailModel,
+    Aplayer
+    // Player,
     // ChatRoom
   }
 };

@@ -62,7 +62,7 @@ export default {
       }
       const userAvatar = this.$store.state.avatar
         ? this.$store.state.avatar
-        : "https://gravatar.loli.net/avatar/d41d8cd98f00b204e9800998ecf8427e?d=mp&v=1.4.14";
+        : "https://ftp.bmp.ovh/imgs/2021/07/261dfce0ead92453.jpeg";
       const userNickname = this.$store.state.nickname
         ? this.$store.state.nickname
         : "游客";
