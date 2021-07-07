@@ -16,17 +16,17 @@
           <a
             class="iconfont iconqq"
             target="_blank"
-            href="http://wpa.qq.com/msgrd?v=3&uin=1192176811&site=qq&menu=yes"
+            href="http://wpa.qq.com/msgrd?v=3&uin=1173038570&site=qq&menu=yes"
           />
           <a
             target="_blank"
-            href="https://github.com/X1192176811"
+            href="https://github.com/resetliny"
             class="ml-5 mr-5 iconfont icongithub"
           />
           <a
             target="_blank"
-            href="https://gitee.com/feng_meiyu"
-            class="iconfont icongitee-fill-round"
+            href="https://weibo.com/u/5854601702"
+            class="iconfont iconweibo"
           />
         </div>
       </div>
@@ -150,17 +150,17 @@
               <a
                 class="iconfont iconqq"
                 target="_blank"
-                href="http://wpa.qq.com/msgrd?v=3&uin=1192176811&site=qq&menu=yes"
+                href="http://wpa.qq.com/msgrd?v=3&uin=1173038570&site=qq&menu=yes"
               />
               <a
                 target="_blank"
-                href="https://github.com/X1192176811"
+                href="https://github.com/resetliny"
                 class="ml-5 mr-5 iconfont icongithub"
               />
               <a
                 target="_blank"
-                href="https://gitee.com/feng_meiyu"
-                class="iconfont icongitee-fill-round"
+                href="https://weibo.com/u/5854601702"
+                class="iconfont iconweibo"
               />
             </div>
           </v-card>
@@ -254,7 +254,7 @@ export default {
     },
     runTime() {
       var timeold =
-        new Date().getTime() - new Date("December 12,2019").getTime();
+        new Date().getTime() - new Date("December 12,2020").getTime();
       var msPerDay = 24 * 60 * 60 * 1000;
       var daysold = Math.floor(timeold / msPerDay);
       var str = "";

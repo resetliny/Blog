@@ -77,7 +77,7 @@
           <div class="aritcle-copyright">
             <div>
               <span>文章作者：</span>
-              <a href="http://www.talkxj.com" target="_blank"> QTZTLINK</a>
+              <a href="http://qtzt.link" target="_blank"> QTZTLINK</a>
             </div>
             <div>
               <span>文章链接：</span>
