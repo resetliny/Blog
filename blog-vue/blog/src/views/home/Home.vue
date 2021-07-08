@@ -21,12 +21,17 @@
           <a
             target="_blank"
             href="https://github.com/resetliny"
-            class="ml-5 mr-5 iconfont icongithub"
+            class="ml-6 mr-3 iconfont icongithub"
           />
           <a
             target="_blank"
             href="https://weibo.com/u/5854601702"
-            class="iconfont iconweibo"
+            class="ml-3 mr-6  iconfont iconweibo"
+          />
+          <a
+            target="_blank"
+            href="https://space.bilibili.com/756604/dynamic"
+            class="iconfont icon-bilibili"
           />
         </div>
       </div>
@@ -155,12 +160,17 @@
               <a
                 target="_blank"
                 href="https://github.com/resetliny"
-                class="ml-5 mr-5 iconfont icongithub"
+                class="ml-6 mr-3 iconfont icongithub"
               />
               <a
                 target="_blank"
                 href="https://weibo.com/u/5854601702"
-                class="iconfont iconweibo"
+                class="ml-3 mr-6 iconfont iconweibo"
+              />
+              <a
+                target="_blank"
+                href="https://space.bilibili.com/756604/dynamic"
+                class="iconfont icon-bilibili"
               />
             </div>
           </v-card>
@@ -233,7 +243,7 @@ export default {
     init() {
       document.title = this.$route.meta.title;
       // 一言Api进行打字机循环输出效果
-      fetch("https://v1.hitokoto.cn?c=i")
+      fetch("https://v1.hitokoto.cn?c=a&c=h")
         .then(res => {
           return res.json();
         })

@@ -21,7 +21,7 @@
             <v-avatar size="65" class="link-avatar">
               <img :src="item.linkAvatar" />
             </v-avatar>
-            <div style="width:100%;z-index:10;">
+            <div style="width: 100%; z-index: 10">
               <div class="link-name">{{ item.linkName }}</div>
               <div class="link-intro">{{ item.linkIntro }}</div>
             </div>
@@ -35,11 +35,14 @@
       <blockquote>
         <div>名称：源🌟的小窝</div>
         <div>简介：记录的是结论，重要的是过程</div>
-        <div>头像：https://test0-linyuan.oss-cn-shenzhen.aliyuncs.com/avatar/1412392738464206850.jpeg</div>
+        <div>
+          头像：<img
+            src="https://test0-linyuan.oss-cn-shenzhen.aliyuncs.com/avatar/1412392738464206850.jpeg "
+            width="10%"
+          />
+        </div>
       </blockquote>
-      <div class="mt-5 mb-5">
-        需要交换友链的可在下方留言💖
-      </div>
+      <div class="mt-5 mb-5">需要交换友链的可在下方留言💖</div>
       <blockquote class="mb-10">
         友链信息展示需要，你的信息格式要包含：名称、介绍、链接、头像
       </blockquote>
@@ -57,17 +60,17 @@
 import Comment from "../../components/Comment";
 export default {
   components: {
-    Comment
+    Comment,
   },
   created() {
     this.listFriendLink();
     this.listComments();
   },
-  data: function() {
+  data: function () {
     return {
       friendLinkList: [],
       commentList: [],
-      count: 0
+      count: 0,
     };
   },
   methods: {
@@ -79,14 +82,14 @@ export default {
     listComments() {
       this.axios
         .get("/api/comments", {
-          params: { current: 1 }
+          params: { current: 1 },
         })
         .then(({ data }) => {
           this.commentList = data.data.recordList;
           this.count = data.data.count;
         });
-    }
-  }
+    },
+  },
 };
 </script>
 

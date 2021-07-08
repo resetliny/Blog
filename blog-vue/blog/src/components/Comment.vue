@@ -11,7 +11,7 @@
           />
           <img
             v-else
-            src="https://gravatar.loli.net/avatar/d41d8cd98f00b204e9800998ecf8427e?d=mp&v=1.4.14"
+            src="https://ftp.bmp.ovh/imgs/2021/07/261dfce0ead92453.jpeg"
           />
         </v-avatar>
         <div style="width:100%" class="ml-3">

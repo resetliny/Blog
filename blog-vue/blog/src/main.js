@@ -6,6 +6,7 @@ import vuetify from "./plugins/vuetify";
 import animated from "animate.css";
 import "./assets/css/index.css";
 import "./assets/css/iconfont.css";
+import "./assets/css/iconfont-add.css";
 import "./assets/css/markdown.css";
 import "@mdi/font/css/materialdesignicons.css";
 import config from "./assets/js/config";
