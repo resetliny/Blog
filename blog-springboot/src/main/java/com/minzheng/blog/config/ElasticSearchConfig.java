@@ -38,8 +38,9 @@ public class ElasticSearchConfig {
 
     @Bean
     public RestHighLevelClient restHighLevelClient() {
-        return new RestHighLevelClient(restClientBuilder.setHttpClientConfigCallback(requestConfig ->
-                requestConfig.setKeepAliveStrategy((response, context) -> TimeUnit.MINUTES.toMillis(3))));
+        return new RestHighLevelClient(restClientBuilder
+                .setHttpClientConfigCallback(requestConfig ->
+                        requestConfig.setKeepAliveStrategy((response, context) -> TimeUnit.MINUTES.toMillis(5))));
     }
 
 }
