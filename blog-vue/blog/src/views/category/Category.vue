@@ -47,7 +47,7 @@ export default {
 
 <style scoped>
 .category-banner {
-  background: url(https://www.static.talkxj.com/wallhaven-13mk9v.jpg) center
+  background: url(https://static.qtzt.link/config/FA7PVCwVEAUGeOi.jpeg) center
     center / cover no-repeat;
   background-color: #49b1f5;
 }

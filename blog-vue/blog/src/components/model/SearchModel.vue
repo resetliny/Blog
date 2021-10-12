@@ -1,6 +1,6 @@
 <template>
   <!-- 搜索框 -->
-  <v-dialog v-model="searchFlag" max-width="600" :fullscreen="isMobile">
+  <v-dialog v-model="searchFlag" max-width="600" :fullscreen="isMobile" :retain-focus="true">
     <v-card class="search-wrapper" style="border-radius:4px">
       <div class="mb-3">
         <span class="search-title">本地搜索</span>

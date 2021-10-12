@@ -94,7 +94,7 @@ export default {
   left: 0;
   right: 0;
   height: 100vh;
-  background: url(https://www.static.talkxj.com/d5ojdj.jpg) center center /
+  background: url(https://static.qtzt.link/config/006z09Zkly1guqsoclqjuj61cz0u0gsp02.jpeg) center center /
     cover no-repeat;
   background-color: #49b1f5;
   animation: header-effect 1s;

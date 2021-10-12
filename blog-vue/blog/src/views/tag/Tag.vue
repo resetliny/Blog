@@ -45,7 +45,7 @@ export default {
 
 <style scoped>
 .tag-banner {
-  background: url(https://www.static.talkxj.com/73lleo.png) center center /
+  background: url(https://static.qtzt.link/config/FA7PVCwVIAA0e0K.jpeg) center center /
     cover no-repeat;
   background-color: #49b1f5;
 }

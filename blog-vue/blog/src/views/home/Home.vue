@@ -243,7 +243,7 @@ export default {
     init() {
       document.title = this.$route.meta.title;
       // 一言Api进行打字机循环输出效果
-      fetch("https://v1.hitokoto.cn?c=a&c=h")
+      fetch("https://v1.hitokoto.cn?c=k&c=h")
         .then(res => {
           return res.json();
         })
@@ -341,7 +341,7 @@ export default {
   left: 0;
   right: 0;
   height: 100vh;
-  background: url("https://www.static.talkxj.com/wallhaven-g89p2.png") center
+  background: url("https://static.qtzt.link/config/006z09Zkgy1gv19vhr8mkj61nz0u011902.jpeg") center
     center / cover no-repeat;
   background-color: #49b1f5;
   background-attachment: fixed;

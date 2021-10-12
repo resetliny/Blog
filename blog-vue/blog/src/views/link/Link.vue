@@ -104,7 +104,7 @@ blockquote {
   border-radius: 4px;
 }
 .link-banner {
-  background: url(https://www.static.talkxj.com/ne78w4%20.jpg) center center /
+  background: url(https://static.qtzt.link/config/FBaNu6vVIAQBCl_.jpeg) center center /
     cover no-repeat;
   background-color: #49b1f5;
 }

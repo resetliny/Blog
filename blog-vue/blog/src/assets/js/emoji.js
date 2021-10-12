@@ -1,115 +1,115 @@
 export default {
-  "[微笑]": "https://www.static.talkxj.com/emoji/smile.jpg",
+  "[微笑]": "https://static.qtzt.link/emoji/smile.jpg",
 
-  "[笑]": " https://www.static.talkxj.com/emoji/dx.jpg",
+  "[笑]": " https://static.qtzt.link/emoji/dx.jpg",
 
-  "[呲牙]": "https://www.static.talkxj.com/emoji/cy.jpg",
+  "[呲牙]": "https://static.qtzt.link/emoji/cy.jpg",
 
-  "[OK]": "https://www.static.talkxj.com/emoji/ok.jpg",
+  "[OK]": "https://static.qtzt.link/emoji/ok.jpg",
 
-  "[星星眼]": "https://www.static.talkxj.com/emoji/xxy.jpg",
+  "[星星眼]": "https://static.qtzt.link/emoji/xxy.jpg",
 
-  "[哦呼]": "https://www.static.talkxj.com/emoji/oh.jpg",
+  "[哦呼]": "https://static.qtzt.link/emoji/oh.jpg",
 
-  "[嫌弃]": "https://www.static.talkxj.com/emoji/xq.jpg",
+  "[嫌弃]": "https://static.qtzt.link/emoji/xq.jpg",
 
-  "[喜欢]": "https://www.static.talkxj.com/emoji/xh.jpg",
+  "[喜欢]": "https://static.qtzt.link/emoji/xh.jpg",
 
-  "[酸了]": "https://www.static.talkxj.com/emoji/sl.jpg",
+  "[酸了]": "https://static.qtzt.link/emoji/sl.jpg",
 
-  "[大哭]": "https://www.static.talkxj.com/emoji/dq.jpg?",
+  "[大哭]": "https://static.qtzt.link/emoji/dq.jpg?",
 
-  "[害羞]": "https://www.static.talkxj.com/emoji/hx.jpg",
+  "[害羞]": "https://static.qtzt.link/emoji/hx.jpg",
 
-  "[无语]": "https://www.static.talkxj.com/emoji/wy.jpg",
+  "[无语]": "https://static.qtzt.link/emoji/wy.jpg",
 
-  "[疑惑]": "https://www.static.talkxj.com/emoji/yh.jpg",
+  "[疑惑]": "https://static.qtzt.link/emoji/yh.jpg",
 
-  "[调皮]": "https://www.static.talkxj.com/emoji/tiaopi.jpg",
+  "[调皮]": "https://static.qtzt.link/emoji/tiaopi.jpg",
 
-  "[笑哭]": "https://www.static.talkxj.com/emoji/xiaoku.jpg",
+  "[笑哭]": "https://static.qtzt.link/emoji/xiaoku.jpg",
 
-  "[奸笑]": "https://www.static.talkxj.com/emoji/jianxiao.jpg",
+  "[奸笑]": "https://static.qtzt.link/emoji/jianxiao.jpg",
 
-  "[偷笑]": "https://www.static.talkxj.com/emoji/touxiao.jpg",
+  "[偷笑]": "https://static.qtzt.link/emoji/touxiao.jpg",
 
-  "[大笑]": "https://www.static.talkxj.com/emoji/daxiao.jpg",
+  "[大笑]": "https://static.qtzt.link/emoji/daxiao.jpg",
 
-  "[阴险]": "https://www.static.talkxj.com/emoji/yinxian.jpg",
+  "[阴险]": "https://static.qtzt.link/emoji/yinxian.jpg",
 
-  "[捂脸]": "https://www.static.talkxj.com/emoji/wulian.jpg",
+  "[捂脸]": "https://static.qtzt.link/emoji/wulian.jpg",
 
-  "[呆]": "https://www.static.talkxj.com/emoji/dai.jpg",
+  "[呆]": "https://static.qtzt.link/emoji/dai.jpg",
 
-  "[抠鼻]": "https://www.static.talkxj.com/emoji/koubi.jpg",
+  "[抠鼻]": "https://static.qtzt.link/emoji/koubi.jpg",
 
-  "[惊喜]": "https://www.static.talkxj.com/emoji/jingxi.jpg",
+  "[惊喜]": "https://static.qtzt.link/emoji/jingxi.jpg",
 
-  "[惊讶]": "https://www.static.talkxj.com/emoji/jingya.jpg",
+  "[惊讶]": "https://static.qtzt.link/emoji/jingya.jpg",
 
-  "[捂脸哭]": "https://www.static.talkxj.com/emoji/wulianku.jpg",
+  "[捂脸哭]": "https://static.qtzt.link/emoji/wulianku.jpg",
 
-  "[妙啊]": "https://www.static.talkxj.com/emoji/miaoa.jpg",
+  "[妙啊]": "https://static.qtzt.link/emoji/miaoa.jpg",
 
-  "[狗头]": "https://www.static.talkxj.com/emoji/goutou.jpg",
+  "[狗头]": "https://static.qtzt.link/emoji/goutou.jpg",
 
-  "[滑稽]": "https://www.static.talkxj.com/emoji/huaji.jpg",
+  "[滑稽]": "https://static.qtzt.link/emoji/huaji.jpg",
 
-  "[吃瓜]": "https://www.static.talkxj.com/emoji/chigua.jpg",
+  "[吃瓜]": "https://static.qtzt.link/emoji/chigua.jpg",
 
-  "[打call]": "https://www.static.talkxj.com/emoji/dacall.jpg",
+  "[打call]": "https://static.qtzt.link/emoji/dacall.jpg",
 
-  "[点赞]": "https://www.static.talkxj.com/emoji/dianzan.jpg",
+  "[点赞]": "https://static.qtzt.link/emoji/dianzan.jpg",
 
-  "[鼓掌]": "https://www.static.talkxj.com/emoji/guzhang.jpg",
+  "[鼓掌]": "https://static.qtzt.link/emoji/guzhang.jpg",
 
-  "[尴尬]": "https://www.static.talkxj.com/emoji/ganga.jpg",
+  "[尴尬]": "https://static.qtzt.link/emoji/ganga.jpg",
 
-  "[冷]": "https://www.static.talkxj.com/emoji/leng.jpg",
+  "[冷]": "https://static.qtzt.link/emoji/leng.jpg",
 
-  "[灵魂出窍]": "https://www.static.talkxj.com/emoji/linghunchuqiao.jpg",
+  "[灵魂出窍]": "https://static.qtzt.link/emoji/linghunchuqiao.jpg",
 
-  "[委屈]": "https://www.static.talkxj.com/emoji/weiqu.jpg",
+  "[委屈]": "https://static.qtzt.link/emoji/weiqu.jpg",
 
-  "[傲娇]": "https://www.static.talkxj.com/emoji/aojiao.jpg",
+  "[傲娇]": "https://static.qtzt.link/emoji/aojiao.jpg",
 
-  "[疼]": "https://www.static.talkxj.com/emoji/teng.jpg",
+  "[疼]": "https://static.qtzt.link/emoji/teng.jpg",
 
-  "[吓]": "https://www.static.talkxj.com/emoji/xia.jpg?",
+  "[吓]": "https://static.qtzt.link/emoji/xia.jpg?",
 
-  "[生病]": "https://www.static.talkxj.com/emoji/shengbing.jpg",
+  "[生病]": "https://static.qtzt.link/emoji/shengbing.jpg",
 
-  "[吐]": "https://www.static.talkxj.com/emoji/tu.jpg",
+  "[吐]": "https://static.qtzt.link/emoji/tu.jpg",
 
-  "[嘘声]": "https://www.static.talkxj.com/emoji/xusheng.jpg",
+  "[嘘声]": "https://static.qtzt.link/emoji/xusheng.jpg",
 
-  "[捂眼]": "https://www.static.talkxj.com/emoji/wuyan.jpg",
+  "[捂眼]": "https://static.qtzt.link/emoji/wuyan.jpg",
 
-  "[思考]": "https://www.static.talkxj.com/emoji/sikao.jpg",
+  "[思考]": "https://static.qtzt.link/emoji/sikao.jpg",
 
-  "[再见]": "https://www.static.talkxj.com/emoji/zaijian.jpg",
+  "[再见]": "https://static.qtzt.link/emoji/zaijian.jpg",
 
-  "[翻白眼]": "https://www.static.talkxj.com/emoji/fanbaiyan.jpg",
+  "[翻白眼]": "https://static.qtzt.link/emoji/fanbaiyan.jpg",
 
-  "[哈欠]": "https://www.static.talkxj.com/emoji/haqian.jpg",
+  "[哈欠]": "https://static.qtzt.link/emoji/haqian.jpg",
 
-  "[奋斗]": "https://www.static.talkxj.com/emoji/fengdou.jpg",
+  "[奋斗]": "https://static.qtzt.link/emoji/fengdou.jpg",
 
-  "[墨镜]": "https://www.static.talkxj.com/emoji/mojing.jpg",
+  "[墨镜]": "https://static.qtzt.link/emoji/mojing.jpg",
 
-  "[撇嘴]": "https://www.static.talkxj.com/emoji/piezui.jpg",
+  "[撇嘴]": "https://static.qtzt.link/emoji/piezui.jpg",
 
-  "[难过]": "https://www.static.talkxj.com/emoji/nanguo.jpg",
+  "[难过]": "https://static.qtzt.link/emoji/nanguo.jpg",
 
-  "[抓狂]": "https://www.static.talkxj.com/emoji/zhuakuang.jpg",
+  "[抓狂]": "https://static.qtzt.link/emoji/zhuakuang.jpg",
 
-  "[生气]": "https://www.static.talkxj.com/emoji/shengqi.jpg",
+  "[生气]": "https://static.qtzt.link/emoji/shengqi.jpg",
 
-  "[爱心]": "https://www.static.talkxj.com/emoji/aixin.jpg",
+  "[爱心]": "https://static.qtzt.link/emoji/aixin.jpg",
 
-  "[胜利]": "https://www.static.talkxj.com/emoji/shengli.jpg",
+  "[胜利]": "https://static.qtzt.link/emoji/shengli.jpg",
 
-  "[保佑]": "https://www.static.talkxj.com/emoji/baoyou.jpg",
+  "[保佑]": "https://static.qtzt.link/emoji/baoyou.jpg",
 
-  "[支持]": "https://www.static.talkxj.com/emoji/zhichi.jpg"
+  "[支持]": "https://static.qtzt.link/emoji/zhichi.jpg"
 };

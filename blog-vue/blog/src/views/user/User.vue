@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="user-banner banner">
+    <div class="banner" :style="cover">
       <h1 class="banner-title">个人中心</h1>
     </div>
     <v-card class="blog-container">
@@ -108,11 +108,6 @@ export default {
 </script>
 
 <style scoped>
-.user-banner {
-  background: url(https://www.static.talkxj.com/article/setting.jpeg) center
-    center / cover no-repeat;
-  background-color: #49b1f5;
-}
 .info-title {
   font-size: 1.25rem;
   font-weight: bold;
