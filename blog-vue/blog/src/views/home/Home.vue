@@ -112,6 +112,8 @@
       <!-- 博主信息 -->
       <v-col md="3" cols="12" class="d-md-block d-none">
         <div class="blog-wrapper">
+          <!-- 数据挂件 -->
+          <div class="animated zoomIn mt-5" id="la-data-widget-container"></div>
           <v-card class="animated zoomIn blog-card mt-5">
             <div class="author-wrapper">
               <!-- 博主头像 -->
@@ -237,6 +239,19 @@ export default {
       blogInfo: {},
       current: 1
     };
+  },
+    mounted() {
+    // const isV6NewNotice = Persist.getItem('v6_change_new_notice', false);
+    // isV6NewNotice !== 'close' && (this.isNoteiceOpen = true);
+    // this.getGuqingStatus();
+    this.$nextTick(() => {
+      const t = document.createElement('script');
+      const e = document.getElementById('la-data-widget-container');
+      t.setAttribute('src', 'https://v6-widget.51.la/v6/JMvUcKqM1aoLDv2l/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center&display=0,1,0,0,0,0,0,0');
+      t.setAttribute('crossorigin', 'anonymous');
+      t.setAttribute('id', 'LA-DATA-WIDGET');
+      e.appendChild(t);
+    });
   },
   methods: {
     // 初始化

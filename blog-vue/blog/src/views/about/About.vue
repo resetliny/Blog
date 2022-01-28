@@ -10,7 +10,7 @@
         <v-avatar size="110">
           <img
             class="author-avatar"
-            src="https://test0-linyuan.oss-cn-shenzhen.aliyuncs.com/avatar/1412397234678403073.jpeg"
+            src="https://img.qtzt.link/avatar/1412397234678403073.jpeg"
           />
         </v-avatar>
       </div>

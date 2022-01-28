@@ -23,7 +23,7 @@
     <!-- 绑定邮箱模态框 -->
     <EmailModel></EmailModel>
     <!-- 音乐播放器 -->
-    <Aplayer></Aplayer>
+    <!-- <Aplayer></Aplayer> -->
     <!-- <Player></Player> -->
     <!-- 聊天室 -->
     <!-- <ChatRoom></ChatRoom> -->

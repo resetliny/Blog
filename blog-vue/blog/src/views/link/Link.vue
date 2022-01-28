@@ -37,7 +37,7 @@
         <div>简介：记录的是结论，重要的是过程</div>
         <div>
           头像：<img
-            src="https://test0-linyuan.oss-cn-shenzhen.aliyuncs.com/avatar/1412392738464206850.jpeg "
+            src="https://img.qtzt.link/avatar/1412392738464206850.jpeg "
             width="10%"
           />
         </div>

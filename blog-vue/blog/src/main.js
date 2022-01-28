@@ -65,6 +65,8 @@ router.afterEach(() => {
   NProgress.done();
 });
 
+//axios.defaults.baseURL = "https://qtzt.link/";
+
 axios.interceptors.response.use(
   function(response) {
     switch (response.data.code) {
