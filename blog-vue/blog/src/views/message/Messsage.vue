@@ -62,7 +62,7 @@ export default {
       }
       const userAvatar = this.$store.state.avatar
         ? this.$store.state.avatar
-        : "https://ftp.bmp.ovh/imgs/2021/07/261dfce0ead92453.jpeg";
+        : "https://img.qtzt.link/avatar/261dfce0ead92453.jpg";
       const userNickname = this.$store.state.nickname
         ? this.$store.state.nickname
         : "游客";

@@ -11,7 +11,7 @@
           />
           <img
             v-else
-            src="https://ftp.bmp.ovh/imgs/2021/07/261dfce0ead92453.jpeg"
+            src="https://img.qtzt.link/avatar/261dfce0ead92453.jpg"
           />
         </v-avatar>
         <div style="width:100%" class="ml-3">

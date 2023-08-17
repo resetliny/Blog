@@ -468,7 +468,7 @@ export default {
     avatar() {
       return this.$store.state.avatar != null
         ? this.$store.state.avatar
-        : "https://ftp.bmp.ovh/imgs/2021/07/261dfce0ead92453.jpeg";
+        : "https://img.qtzt.link/avatar/261dfce0ead92453.jpg";
     },
     userId() {
       return this.$store.state.userId;
